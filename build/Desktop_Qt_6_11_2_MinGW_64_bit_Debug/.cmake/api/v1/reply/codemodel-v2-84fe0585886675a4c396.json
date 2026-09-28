@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1bf4dfb4bc3a50112e97.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LeafTex",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LeafTex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LeafTex-Debug-274ffeb9ae9b4fbf6e97.json",
+					"name" : "LeafTex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LeafTex_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LeafTex_autogen-Debug-b681fc3bba74b0785e19.json",
+					"name" : "LeafTex_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LeafTex_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LeafTex_autogen_timestamp_deps-Debug-c8ba7793c3600d2e58f7.json",
+					"name" : "LeafTex_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/LeafTex/build/Desktop_Qt_6_11_2_MinGW_64_bit_Debug",
+		"source" : "D:/Projects/LeafTex"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
